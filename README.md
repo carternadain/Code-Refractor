@@ -10,6 +10,10 @@ website for all devices.
 
 ![Screen Shot of the App in use](/assets/images/bottompage.png)
 
+# website URL
+https://carternadain.github.io/HTML-CSS-Git-challenge/
+
+
 # credits 
 * Carter nadain
 * University of arizona coding bootcamp
