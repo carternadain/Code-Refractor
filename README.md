@@ -6,8 +6,10 @@ we hope to sign many user to help grow there business, our next project is to la
 website for all devices. 
 
 # website images
+![Screen Shot of the App in use](/assets/images/frontpage.png)
 
+![Screen Shot of the App in use](/assets/images/bottompage.png)
 
 # credits 
-Carter nadain
-University of arizona coding bootcamp
+* Carter nadain
+* University of arizona coding bootcamp
